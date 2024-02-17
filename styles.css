@@ -423,6 +423,7 @@ body{
     color: var(--text-color);
     text-align:justify;
     padding: 20px;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 10%);
 }
 .send-message .texta{
     height: 200px;
